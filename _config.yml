@@ -1,8 +1,8 @@
 # Site
-title:          Hank
-bio:            'It my personal websit'
+title:          Ramme
+bio:            'Just a simple Jekyll theme'
 description:    "Simple Jekyll theme for your blog by Taylan Tatlı"
-picture:        'assets/img/myphoto.jpg'
+picture:        'assets/img/Logo.png'
 locale:         en_US
 url:            http://bighanksmallhank.github.io
 
@@ -53,7 +53,6 @@ youtube: username
 # if you don't need pagination, comment the *paginate* configs below
 # paginate: 5
 # paginate_path: "blog/:num/"
-
 
 # Gems
 gems:
