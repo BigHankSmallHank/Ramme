@@ -3,7 +3,8 @@ layout: post
 title: "项目人员招募-编程控制二维平台和摄像头拍摄"
 date: 2016-02-26
 excerpt: "项目人员招募"
-Project: true
+project: true
+published: true # default is true
 tags: [prject post, recruit, 2D platform, camera]
 ---
 
