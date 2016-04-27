@@ -1,17 +1,14 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, ramme]
-date: 2016-03-21
+title: 我的学术简历
+tags: [about, me, CV]
+date: 2016-04-27
 ---
 ![Logo]({{ site.url }}/{{ site.picture }}){: .selfie}
 
-**Ramme** is a simple jekyll theme.
-     
-I made this theme after seeing this [screenshot](http://spoonm.org/share/rice/01.png). I took some parts from @mmistakes, like TOC, sample posts. I never tought making a theme from scratch would be this hard. And it's still WIP.
-     
-I'm not a designer or something, so I'm sure there is a better way to make this theme. But it's working and looks acceptable for different screen sizes. If something looks extremely ugly and you can't resist to fix it, just send me a PR. I will be grateful.
-     
-You want to **use it?**      
-      
-[Install Ramme](https://github.com/TaylanTatli/Ramme){: .btn}
+
+**曹永锋**，男，1976年7月生，贵州师范大学大数据与计算机科学学院，博士，教授，博导。1999年毕业于原武汉测绘科技大学光电学院，获工学学士学位。1999-2001年武汉测绘科技大学攻读信号与信息处理专业硕士学位，2001年起武汉大学攻读通信与信息系统专业博士学位，2004年12月获得博士学位。1999年至2010年武汉大学电信学院信号处理实验室从事教学和研究，2011年至今在贵州师范大学数学与计算机科学学院（2016年分出为大数据与计算机科学学院）任教，2014年10月至2015年10月加拿大滑铁卢大学VIP(Vision and Image Processing)实验室公派访问学者。主持国家自然科学基金2项，国家重点实验室开放基金1项，国家重点实验室自主研究基金1项，校级教师资助基金2项；作为主要技术骨干参与国家863项目，国家自然科学基金，省自然科学基金，国防预研基金等多个项目。发表学术论文30多篇，其中SCI检索6篇，EI检索16篇。授权发明专利4项。目前研究方向：图像处理，遥感图像解译，模式识别与机器学习。
+
+详细简历参见[详细介绍]（./_posts/CV_forMyWeb.pdf）
+
+所在实验室网址：[智能信息处理实验室](http://bighanksmallhank.github.io/website)
