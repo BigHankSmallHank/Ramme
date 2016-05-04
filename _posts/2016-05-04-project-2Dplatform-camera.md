@@ -29,4 +29,4 @@ tags: [prject post,2D moving platform,robots,camera]
 ### 招募人员 ###
 
 还需要1-2名人员一起完成控制二维平台运动以及摄像头拍摄的工作。任何感兴趣的本科生/研究生都可以与我们联系。
-联系方式：QQ: XXXXXXXXX
+联系方式：QQ: 812024981

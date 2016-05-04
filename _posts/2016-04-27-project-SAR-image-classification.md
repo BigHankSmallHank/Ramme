@@ -12,9 +12,9 @@ tags: [prject post, SAR, classification]
 <figure class="half">
 	<img src="http://bighanksmallhank.github.io/mydata/Orthorectification.png">
 	<img src="http://bighanksmallhank.github.io/mydata/SARClassification.png">
-	<figcaption>SAR数据地形影响校正（左）SAR数据地物覆盖分类（右）.</figcaption>
 </figure>
-
+SAR数据地形影响校正（左）SAR数据地物覆盖分类（右）
+--------------------------
 
 ### 简介 ###
 
@@ -72,4 +72,4 @@ tags: [prject post, SAR, classification]
 ### 招募人员 ###
 
 任何感兴趣的本科生/研究生都可以与我们联系。
-联系方式：QQ: XXXXXXXXX
+联系方式：QQ: 812024981

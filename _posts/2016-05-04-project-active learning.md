@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "主动机器学习-On going"
+title: "主动机器学习 -On going"
 date: 2016-05-04
 excerpt: "active learning"
 project: true
@@ -55,4 +55,4 @@ tags: [prject post, active learning, machine learning]
 ### 招募人员 ###
 
 任何感兴趣的本科生/研究生都可与我们联系。
-联系方式：QQ: XXXXXXXXX
+联系方式：QQ: 812024981
