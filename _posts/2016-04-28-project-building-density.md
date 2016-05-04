@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "单幅SAR图像中提取建筑密度信息"
+title: "单幅SAR图像中提取建筑密度信息 -Done!"
 date: 2016-04-28
 excerpt: "building density"
 project: true
@@ -10,7 +10,7 @@ tags: [prject post, SAR, building density]
 
 ![building density](http://bighanksmallhank.github.io/mydata/BuildingDensity.jpg)
 
-图1：a.武汉部分区域SAR图像；b.建筑数目密度图。像素值代表当前地点为中心一平方公里范围内的建筑数目；
+a.武汉部分区域SAR图像；b.建筑数目密度图。像素值代表当前地点为中心一平方公里范围内的建筑数目；c.根据取值分为8个不同密度区域
 
 ### 简介 ###
 

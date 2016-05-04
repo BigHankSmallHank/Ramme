@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "On going 3: 主动机器学习"
-date: 2016-04-28
+title: "主动机器学习-On going"
+date: 2016-05-04
 excerpt: "active learning"
 project: true
 published: true

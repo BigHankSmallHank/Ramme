@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "On going 1: 2D运动平台与摄像"
+title: "运动平台与摄像头控制 -On going"
 date: 2016-05-04
 excerpt: "2Dplatform"
 project: true

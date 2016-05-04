@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAR图像解译"
+title: "SAR图像解译 -On going"
 date: 2016-04-27
 excerpt: "SAR图像解译"
 project: true
@@ -9,13 +9,11 @@ tags: [prject post, SAR, classification]
 ---
 
 
-{% highlight html %}
 <figure class="half">
 	<img src="http://bighanksmallhank.github.io/mydata/Orthorectification.png">
-	<img src="http://bighanksmallhank.github.io/mydata/SARClassificaiton.png">
+	<img src="http://bighanksmallhank.github.io/mydata/SARClassification.png">
 	<figcaption>SAR数据地形影响校正（左）SAR数据地物覆盖分类（右）.</figcaption>
 </figure>
-{% endhighlight %}
 
 
 ### 简介 ###

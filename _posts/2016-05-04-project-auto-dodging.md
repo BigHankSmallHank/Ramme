@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "On going 2: 无人机影像拼接后处理"
+title: "无人机影像拼接后处理 -On going"
 date: 2016-05-04
 excerpt: "无人机影像拼接后处理"
 project: true
