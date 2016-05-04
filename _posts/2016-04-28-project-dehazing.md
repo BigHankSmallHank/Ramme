@@ -8,4 +8,4 @@ published: true
 tags: [prject post,UAV,dehazing]
 ---
 
-![dehazing](Dehazing.png)
+![dehazing](http://bighanksmallhank.github.io/mydata/Dehazing.png)
