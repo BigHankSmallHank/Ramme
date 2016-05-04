@@ -8,7 +8,7 @@ published: true
 tags: [prject post, active learning, machine learning]
 ---
 
-![active learning](http://bighanksmallhank.github.io/_posts/ActiveLearning.png)
+![active learning](http://bighanksmallhank.github.io/mydata/ActiveLearning.png)
 
 
 ### 简介 ###
