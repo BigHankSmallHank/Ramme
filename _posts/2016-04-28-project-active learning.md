@@ -8,7 +8,7 @@ published: true
 tags: [prject post, active learning, machine learning]
 ---
 
-![active learning](ActiveLearning.png)
+![active learning]({{site.url}}/{{_posts/ActiveLearning.png}})
 
 
 ###简介###
