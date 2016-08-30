@@ -8,7 +8,6 @@ published: true
 tags: [teaching post, pattern recognition]
 ---
 
-![auto dodging](http://bighanksmallhank.github.io/mydata/AutoDodging.jpg)
 
 ### 简介 ###
 
