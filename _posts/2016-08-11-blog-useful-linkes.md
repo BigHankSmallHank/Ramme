@@ -27,6 +27,8 @@ tags: [blog post,useful linkes]
 
 [Active learning group](http://www.inf-cv.uni-jena.de/en/active_learning)
 
+[Image matting](http://alphamatting.com/eval_26.php)
+
 
 ### 工具与学习 ###
 
