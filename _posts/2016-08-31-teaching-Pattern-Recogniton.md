@@ -25,8 +25,10 @@ tags: [teaching post, pattern recognition]
 3. Distance measures for pattern classification_partII  [PPT](http://bighanksmallhank.github.io/mydata/Chapter2 Distance measures for pattern classification_part II.ppt)
 4. Probability measures for pattern classification_partI  [PPT](http://bighanksmallhank.github.io/mydata/Chapter3 Probability measures for pattern classification_part I.ppt)
 5. Probability measures for pattern classification_partII  [PPT](http://bighanksmallhank.github.io/mydata/Chapter3 Probability measures for pattern classification_part II.ppt)
-6. to be continued ....
-
+6. Estimation and Learning_partI   [PPT](http://bighanksmallhank.github.io/mydata/Chapter4 Estimation and Learning_part I.ppt)
+7. Estimation and Learning_partII  [ppt](http://bighanksmallhank.github.io/mydata/Chapter4 Estimation and Learning_part II.ppt)
+8. Discrimination function for pattern classification   [PPT](http://bighanksmallhank.github.io/mydata/Chapter5 Discrimination funciton for pattern classification.ppt)
+9. to be continued ....
 
 
 digital number image set:   [dataset](http://bighanksmallhank.github.io/mydata/digital_image_set.zip)
@@ -37,4 +39,4 @@ digital number image set:   [dataset](http://bighanksmallhank.github.io/mydata/d
 ### 其他上课前注意事项 ###
 1. 携带笔记本电脑
 2. 下载课程ppt和数据集(QQ传给你们)预习
-3. 先做好数据集中图片的预处理，即（1）通过重采样将所有样本图片变为相同的尺寸大小。（2）统一为灰度图片。
+3. 先做好数据集中图片的预处理，即（1）通过重采样将所有样本图片变为相同的尺寸大小。（2）统一为灰度图片。(3) 课前演示上次课所讲分类器的训练结果
