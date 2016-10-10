@@ -21,8 +21,8 @@ tags: [teaching post, pattern recognition]
 
 ### 主要内容（不断更新中） ### 
 1. Introduction       [PPT](http://bighanksmallhank.github.io/mydata/Chapter1 Introduction.ppt)
-2. Distance measures for pattern classification_partI   [PPT](http://bighanksmallhank.github.io/mydata/Chapter2 Distance measures for pattern classfification_part I.ppt)
-3. Distance measures for pattern classification_partII  [PPT](http://bighanksmallhank.github.io/mydata/Chapter2 Distance measures for pattern classification_part II.ppt)
+2. Distance measures for pattern classification_partI   [PPT](http://bighanksmallhank.github.io/mydata/Chapter2 Distance measures for pattern classification_part I.ppt)
+3. Distance measures for pattern classification_partII  [PPT](http://bighanksmallhank.github.io/mydata/Chapter2 Distance measures for pattern classfification_part II.ppt)
 4. Probability measures for pattern classification_partI  [PPT](http://bighanksmallhank.github.io/mydata/Chapter3 Probability measures for pattern classification_part I.ppt)
 5. Probability measures for pattern classification_partII  [PPT](http://bighanksmallhank.github.io/mydata/Chapter3 Probability measures for pattern classification_part II.ppt)
 6. Estimation and Learning_partI   [PPT](http://bighanksmallhank.github.io/mydata/Chapter4 Estimation and Learning_part I.ppt)
