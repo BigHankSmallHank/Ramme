@@ -28,10 +28,13 @@ tags: [teaching post, pattern recognition]
 6. Estimation and Learning_partI   [PPT](http://bighanksmallhank.github.io/mydata/Chapter4 Estimation and Learning_part I.ppt)
 7. Estimation and Learning_partII  [ppt](http://bighanksmallhank.github.io/mydata/Chapter4 Estimation and Learning_part II.ppt)
 8. Discrimination function for pattern classification   [PPT](http://bighanksmallhank.github.io/mydata/Chapter5 Discrimination funciton for pattern classification.ppt)
-9. to be continued ....
+9. PCA  [ppt](http://bighanksmallhank.github.io/mydata/Chapter6 Feature extraction_PCA.ppt)
+10. Logistic Regression [ppt](http://bighanksmallhank.github.io/mydata/Chapter7 Logistic Regression.ppt)
+11. to be continued ....
 
 
 digital number image set:   [dataset](http://bighanksmallhank.github.io/mydata/digital_image_set.zip)
+课程论文模板 [模板](http://bighanksmallhank.github.io/mydata/template1.doc)
 
 ### 上课时间与地点 ###
 花溪校区大数据与计算机科学学院6402, 每周三下午2:00-4：00
@@ -40,3 +43,4 @@ digital number image set:   [dataset](http://bighanksmallhank.github.io/mydata/d
 1. 携带笔记本电脑
 2. 下载课程ppt和数据集(QQ传给你们)预习
 3. 先做好数据集中图片的预处理，即（1）通过重采样将所有样本图片变为相同的尺寸大小。（2）统一为灰度图片。(3) 课前演示上次课所讲分类器的训练结果
+4. 课前提交书面分类结果与分析（包括，3个基本分类器（ED分类器，MICD分类器，高斯最大后验分类器）间的性能比较；数字图像大小归一化操作对性能的影响；图像归一化大小数值对性能的影响；）请使用交叉验证指标进行分析。
